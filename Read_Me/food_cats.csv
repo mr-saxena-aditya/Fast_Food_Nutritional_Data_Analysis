@@ -1,0 +1,516 @@
+item,calories,category
+Artisan Grilled Chicken Sandwich,380,Side Dish
+Single Bacon Smokehouse Burger,840,Main - Pork
+Double Bacon Smokehouse Burger,1130,Main - Pork
+Grilled Bacon Smokehouse Chicken Sandwich,750,Main - Chicken
+Crispy Bacon Smokehouse Chicken Sandwich,920,Main - Chicken
+Big Mac,540,Side Dish
+Cheeseburger,300,Side Dish
+Classic Chicken Sandwich,510,Side Dish
+Double Cheeseburger,430,Side Dish
+Double Quarter Pounder® with Cheese,770,Main - Other
+Filet-O-Fish®,380,Side Dish
+Garlic White Cheddar Burger,620,Side Dish
+Grilled Garlic White Cheddar Chicken Sandwich,530,Side Dish
+Crispy Garlic White Cheddar Chicken Sandwich,700,Main - Chicken
+Hamburger,250,Side Dish
+Lobster Roll,290,Side Dish
+Maple Bacon Dijon 1/4 lb Burger,640,Side Dish
+Grilled Maple Bacon Dijon Chicken Sandwich,580,Side Dish
+Crispy Maple Bacon Dijon Chicken Sandwich,740,Main - Chicken
+McChicken,350,Side Dish
+McDouble,380,Side Dish
+McRib,480,Side Dish
+Pico Guacamole 1/4 lb Burger,580,Side Dish
+Grilled Pico Guacamole Chicken Sandwich,520,Side Dish
+Crispy Pico Guacamole Chicken Sandwich,680,Side Dish
+Premium Buttermilk Crispy Chicken Deluxe Sandwich,570,Side Dish
+Premium Crispy Chicken Deluxe Sandwich,530,Side Dish
+Quarter Pounder® with Cheese,530,Side Dish
+Signature Sriracha Burger,670,Side Dish
+Grilled Signature Sriracha Chicken Sandwich,560,Side Dish
+Crispy Signature Sriracha Chicken Sandwich,730,Main - Chicken
+Sweet BBQ Bacon 1/4 lb Burger,690,Side Dish
+Grilled Sweet BBQ Bacon Chicken Sandwich,630,Side Dish
+Crispy Sweet BBQ Bacon Chicken Sandwich,800,Main - Chicken
+3 piece Buttermilk Crispy Chicken Tenders,370,Side Dish
+4 piece Buttermilk Crispy Chicken Tenders,480,Side Dish
+6 piece Buttermilk Crispy Chicken Tenders,760,Main - Chicken
+10 piece Buttermilk Crispy Chicken Tenders,1210,Main - Chicken
+12 piece Buttermilk Crispy Chicken Tenders,1510,Main - Chicken
+20 piece Buttermilk Crispy Chicken Tenders,2430,Main - Chicken
+4 Piece Chicken McNuggets,180,Side Dish
+6 Piece Chicken McNuggets,270,Side Dish
+10 Piece Chicken McNuggets,440,Side Dish
+20 Piece Chicken McNuggets,890,Main - Chicken
+40 piece Chicken McNuggets,1770,Main - Chicken
+4 piece Sweet N Spicy Honey BBQ Glazed Tenders,640,Side Dish
+6 piece Sweet N Spicy Honey BBQ Glazed Tenders,960,Main - Other
+10 piece Sweet N Spicy Honey BBQ Glazed Tenders,1600,Main - Other
+Premium Asian Salad w/o Chicken,140,Side Dish
+Premium Asian Salad w/ Grilled Chicken,270,Side Dish
+Premium Asian Salad w/ Crispy Chicken,490,Side Dish
+Premium Bacon Ranch Salad w/o Chicken,190,Side Dish
+Premium Bacon Ranch Salad w/ Grilled Chicken,320,Side Dish
+Premium Bacon Ranch Salad w/ Crispy Chicken,490,Side Dish
+Premium Southwest Salad w/o Chicken,220,Side Dish
+Premium Southwest Salad w/ Grilled Chicken,350,Side Dish
+Premium Southwest Salad w/ Crispy Chicken,520,Side Dish
+Chargrilled Chicken Club Sandwich,430,Side Dish
+Chargrilled Chicken Sandwich,310,Side Dish
+Chick-n-Slider,270,Side Dish
+1 Piece Chick-n-Strips,120,Side Dish
+2 Piece Chick-n-Strips,230,Side Dish
+3 Piece Chick-n-Strips,350,Side Dish
+4 piece Chick-n-Strips,470,Side Dish
+Chicken Deluxe,500,Side Dish
+4 piece Chicken Nuggets,130,Side Dish
+6 piece Chicken Nuggets,190,Side Dish
+8 piece Chicken Nuggets,260,Side Dish
+12 piece Chicken Nuggets,390,Side Dish
+30 piece Chicken Nuggets,970,Main - Chicken
+Chicken Salad Sandwich,490,Side Dish
+Chicken Sandwich,440,Side Dish
+4 Piece Grilled Chicken Nuggets,70,Side Dish
+6 Piece Grilled Chicken Nuggets,110,Side Dish
+8 piece Grilled Chicken Nuggets,140,Side Dish
+12 Piece Grilled Chicken Nuggets,210,Side Dish
+Spicy Grilled Chicken Sub Sandwich,430,Side Dish
+Regular Grilled Chicken Sub Sandwich,450,Side Dish
+Smokehouse BBQ Bacon Sandwich,500,Side Dish
+Spicy Chicken Sandwich,450,Side Dish
+Spicy Deluxe,540,Side Dish
+Chargrilled Chicken Cool Wrap,350,Side Dish
+Chicken Enchiladas Meal Kit,860,Main - Chicken
+Chicken Parmesan Meal Kit,720,Main - Chicken
+Hatch Green Chile Cheeseburger,710,Main - Other
+Jalapeno Burger,640,Side Dish
+Jr. Burger,340,Side Dish
+Jr. Chili Cheeseburger,410,Side Dish
+Jr. Deluxe Burger,380,Side Dish
+Jr. Deluxe Cheeseburger,450,Side Dish
+Jr. Double Cheeseburger,600,Side Dish
+Sonic Bacon Cheeseburger (w/mayo),870,Main - Pork
+Sonic Burger W/ Mustard,640,Side Dish
+Sonic Burger W/ Ketchup,650,Side Dish
+Sonic Burger W/ Mayonnaise,740,Main - Other
+Sonic Cheeseburger W/ Mustard,710,Main - Other
+Sonic Cheeseburger W/ Ketchup,720,Main - Other
+Sonic Cheeseburger W/ Mayonnaise,800,Main - Other
+Super Sonic Bacon Double Cheeseburger (w/mayo),1280,Main - Pork
+Super Sonic Double Cheeseburger W/ Mustard,1120,Main - Other
+Super Sonic Double Cheeseburger W/ Ketchup,1130,Main - Other
+Super Sonic Double Cheeseburger W/ Mayo,1220,Main - Other
+Super Sonic Jalapeno Double Cheeseburger,1120,Main - Other
+Veggie Burger W/ Ketchup,450,Side Dish
+Veggie Burger With Mustard,450,Side Dish
+Veggie Burger W/ Mustard,450,Side Dish
+Grilled Asiago Caesar Chicken Club Sandwich,610,Side Dish
+Crispy Asiago Caesar Chicken Club Sandwich,680,Side Dish
+Grilled Chicken Sandwich,430,Side Dish
+Crispy Chicken Sandwich,570,Side Dish
+Chicken Strip Sandwich,450,Side Dish
+3 Piece Crispy Chicken Tender Dinner,280,Side Dish
+5 Piece Crispy Chicken Tender Dinner,470,Side Dish
+Deluxe Ultimate Chicken Sandwich,740,Main - Chicken
+Buffalo Dunked Ultimate Chicken Sandwich,1000,Main - Chicken
+Garlic Parmesan Dunked Ultimate Chicken Sandwich,1350,Main - Chicken
+Small Jumbo Popcorn Chicken,380,Side Dish
+Large Jumbo Popcorn Chicken,560,Side Dish
+Small Spicy Jumbo Popcorn Chicken,350,Side Dish
+Large Spicy Jumbo Popcorn Chicken,610,Side Dish
+3 Piece Super Crunch Chicken Strip Dinner,970,Main - Chicken
+4 Piece Super Crunch Chicken Strip Dinner,1080,Main - Chicken
+5 Piece Super Crunch Chicken Strip Dinner,1190,Main - Chicken
+3 Piece Super Crunch Chicken Strips,330,Side Dish
+4 Piece Super Crunch Chicken Strips,440,Side Dish
+5 Piece Super Crunch Chicken Strips,550,Side Dish
+Traditional Ultimate Chicken Sandwich,730,Main - Chicken
+Ultimate Chicken Club,100,Side Dish
+"All Beef All-american Style Dog – 6""",370,Side Dish
+"All Beef Chicago Dog – 6""",430,Side Dish
+"All Beef Chili Cheese Coney – 6""",410,Side Dish
+"All Beef New York Dog – 6""",340,Side Dish
+"All Beef Regular Hot Dog – 6""",320,Side Dish
+Cheesy Bacon Pretzel Dog - 6 In.,500,Side Dish
+Corn Dog,210,Side Dish
+Footlong Quarter Pound Coney,830,Main - Other
+The Original Pretzel Dog,320,Side Dish
+Arbys Melt,330,Side Dish
+Arby-Q Sandwich,400,Side Dish
+Beef n Cheddar Classic,450,Side Dish
+Beef n Cheddar Mid,630,Side Dish
+Bourbon BBQ Brisket Sandwich,650,Side Dish
+Bourbon BBQ Chicken Sandwich,690,Side Dish
+Bourbon BBQ Steak Sandwich,690,Side Dish
+Buttermilk Buffalo Chicken Sandwich,540,Side Dish
+Buttermilk Chicken Bacon & Swiss,650,Side Dish
+Buttermilk Chicken Cordon Bleu Sandwich,690,Side Dish
+Buttermilk Crispy Chicken Sandwich,550,Side Dish
+Classic French Dip & Swiss/Au Jus,540,Side Dish
+Classic Roast Beef,360,Side Dish
+Double Roast Beef,510,Side Dish
+Fire-Roasted Philly Steak,640,Side Dish
+Grand Turkey Club,480,Side Dish
+Greek Gyro,710,Main - Other
+Half Pound Beef n Cheddar Sandwich,740,Main - Beef
+Half Pound French Dip & Swiss,750,Main - Other
+Half Pound Roast Beef Sandwich,610,Side Dish
+Ham & Swiss Melt,300,Side Dish
+Loaded Italian Sandwich,680,Side Dish
+Pecan Chicken Salad Flatbread,710,Main - Chicken
+Pecan Chicken Salad Sandwich,840,Main - Chicken
+2 piece Prime-Cut Chicken Tenders,240,Side Dish
+3 piece Prime-Cut Chicken Tenders,360,Side Dish
+5 piece Prime-Cut Chicken Tenders,600,Side Dish
+Reuben Sandwich,680,Side Dish
+Roast Beef Gyro,550,Side Dish
+Roast Turkey & Swiss Sandwich,710,Main - Other
+Roast Turkey & Swiss Wrap,520,Side Dish
+"Roast Turkey, Ranch & Bacon Sandwich",800,Main - Pork
+"Roast Turkey, Ranch & Bacon Wrap",620,Side Dish
+Smoke Mountain w/ Beef Short Rib,740,Main - Beef
+Smokehouse Beef Short Rib Sandwich,590,Side Dish
+Smokehouse Brisket,600,Side Dish
+Super Roast Beef,430,Side Dish
+Three Cheese Steak Sandwich,650,Side Dish
+Triple Decker Sandwich,1030,Main - Other
+Turkey Avocado Club,730,Main - Other
+Turkey Gyro,470,Side Dish
+Ultimate BLT,980,Main - Other
+Buffalo Chicken Slider,290,Side Dish
+Chicken Tender n Cheese Slider,290,Side Dish
+Corned Beef n Cheese Slider,220,Side Dish
+Ham n Cheese Slider,210,Side Dish
+Jalapeno Roast Beef n Cheese Slider,240,Side Dish
+Pizza Slider,300,Side Dish
+Roast Beef n Cheese Slider,240,Side Dish
+Turkey n Cheese Slider,200,Side Dish
+Chopped Side Salad,70,Side Dish
+Crispy Chicken Farmhouse Salad,430,Side Dish
+Greek Gyro Salad,420,Side Dish
+Roast Turkey Farmhouse Salad,230,Side Dish
+Super Greek Salad,720,Main - Other
+American Brewhouse King,1550,Main - Other
+Bacon & Swiss Sourdough King,1000,Main - Pork
+Bacon Cheeseburger,330,Side Dish
+Bacon Cheeseburger Deluxe,290,Side Dish
+Bacon King,1040,Main - Pork
+Bacon King Jr,730,Main - Pork
+BBQ Bacon King,1100,Main - Pork
+Cheeseburger,300,Side Dish
+Double Bacon Cheeseburger,520,Side Dish
+Double Cheeseburger,450,Side Dish
+Double Hamburger,360,Side Dish
+Double Quarter Pound King,900,Main - Other
+Extra Long Cheeseburger,580,Side Dish
+Farmhouse King,1220,Main - Other
+Hamburger,260,Side Dish
+Homestyle Cheeseburger,550,Side Dish
+Jalapeno King Sandwich,990,Main - Other
+Mushroom & Swiss King,940,Main - Other
+Rodeo Burger,310,Side Dish
+Rodeo King,1250,Main - Other
+Sourdough King Single,730,Main - Other
+Sourdough King Double,970,Main - Other
+Steakhouse King,1100,Main - Other
+Bacon & Cheese Whopper,770,Main - Pork
+DOUBLE WHOPPER w/o Cheese,900,Main - Other
+DOUBLE WHOPPER w/ Cheese,990,Main - Other
+WHOPPER w/o Cheese,660,Side Dish
+WHOPPER w/ Cheese,760,Main - Other
+WHOPPER JR. w/o Cheese,340,Side Dish
+WHOPPER JR. w/ Cheese,380,Side Dish
+Bacon Cheddar Ranch Chicken Salad w/ grilled Chicken & Dressing,590,Side Dish
+Bacon Cheddar Ranch Chicken Salad w/ crispy Chicken & Dressing,720,Main - Chicken
+Chicken BLT Salad w/ Grilled Chicken,550,Side Dish
+Chicken BLT Salad w/ Crispy Chicken,690,Side Dish
+Chicken Caesar Salad w/ Grilled Chicken,530,Side Dish
+Chicken Caesar Salad w/ Crispy Chicken,670,Side Dish
+"Chicken, Apple & Cranberry Salad w/ Grilled Chicken",560,Side Dish
+"Chicken, Apple & Cranberry Salad w/ Crispy Chicken",700,Main - Chicken
+"Garden Grilled Chicken Salad w/ Grilled Chicken, no dressing",320,Side Dish
+"Garden Grilled Chicken Salad w/ Crispy Chicken, no dressing",450,Side Dish
+Side Caesar Salad with dressing,220,Side Dish
+Side Garden Salad and Avocado Ranch Dressing,230,Side Dish
+Bacon Cheddar Ranch Crispy Chicken Sandwich,830,Main - Chicken
+BBQ Bacon Crispy Chicken Sandwich,440,Side Dish
+Big Fish Sandwich,530,Side Dish
+BK VEGGIE Burger,410,Side Dish
+Chicken Burger,480,Side Dish
+Chicken Cordon Bleu Sandwich,730,Main - Chicken
+Chicken Fries,290,Side Dish
+4 Piece Chicken Nuggets,190,Side Dish
+6 Piece Chicken Nuggets,290,Side Dish
+20 Piece Chicken Nuggets,950,Main - Chicken
+Chicken Nuggets (10pc),470,Side Dish
+Chicken Parmesan Sandwich,570,Side Dish
+Crispy Buffalo Chicken Melt,580,Side Dish
+Crispy Chicken Jr.,430,Side Dish
+Crispy Chicken Sandwich,670,Side Dish
+Grilled Chicken Sandwich,470,Side Dish
+Grilled Chili Cheese Dog,330,Side Dish
+Grilled Hot Dog,310,Side Dish
+Jalapeno Chicken Fries,300,Side Dish
+Original Chicken Sandwich,630,Side Dish
+Pretzel Chicken Fries,340,Side Dish
+Rodeo Crispy Chicken Sandwich,410,Side Dish
+Sourdough Chicken Club,840,Main - Chicken
+4 Piece Spicy Chicken Nuggets,210,Side Dish
+Spicy Chicken Nuggets,530,Side Dish
+Spicy Crispy Chicken Jr.,410,Side Dish
+Spicy Crispy Chicken Sandwich,700,Main - Chicken
+Spicy Crispy Jalapeno Chicken Sandwich,760,Main - Chicken
+1/2 lb. FlameThrower® GrillBurger,1000,Main - Other
+1/2 lb. GrillBurger with Cheese,800,Main - Other
+1/4 lb. Bacon Cheese GrillBurger,630,Side Dish
+1/4 lb. GrillBurger with Cheese,540,Side Dish
+1/4 lb. Mushroom Swiss GrillBurger,570,Side Dish
+Original Cheeseburger,400,Side Dish
+Original Double Cheeseburger,630,Side Dish
+4 Piece Chicken Strip Basket w/ Country Gravy,1030,Main - Chicken
+6 Piece Chicken Strip Basket w/ Country Gravy,1260,Main - Chicken
+Bacon Cheese Dog,420,Side Dish
+Cheese Dog,390,Side Dish
+Chili Cheese Dog,380,Side Dish
+Chili Dog,330,Side Dish
+Hot Dog,290,Side Dish
+Relish Dog,350,Side Dish
+Barbecue Pork Sandwich,310,Side Dish
+Breaded Mushrooms,250,Side Dish
+Regular Cheese Curds,550,Side Dish
+Large Cheese Curds,1050,Main - Other
+Chili Cheese Mega Dog,760,Main - Other
+Corn Dog,260,Side Dish
+Crispy Fish Sandwich,470,Side Dish
+Deluxe Cheeseburger,400,Side Dish
+Deluxe Double Cheeseburger,640,Side Dish
+Deluxe Double Hamburger,540,Side Dish
+Deluxe Hamburger,350,Side Dish
+DQ Ultimate® Burger,780,Main - Other
+Pork Tenderloin Sandwich,580,Side Dish
+Steak Finger Basket,910,Main - Other
+3 chicken strips Chicken Strips,350,Side Dish
+Chicken Bacon Ranch Sandwich,500,Side Dish
+Chicken Mozzarella Sandwich,640,Side Dish
+Crispy Chicken BLT Salad,520,Side Dish
+Crispy Chicken Garden Greens Salad,280,Side Dish
+Crispy Chicken Sandwich,600,Side Dish
+Crispy Chicken Wrap,350,Side Dish
+Grilled Chicken BLT Salad,380,Side Dish
+Grilled Chicken Garden Greens Salad,150,Side Dish
+Grilled Chicken Sandwich,360,Side Dish
+Grilled Chicken Wrap,280,Side Dish
+Side Salad,20,Side Dish
+Turkey BLT Sandwich,550,Side Dish
+"6"" B.L.T.",320,Side Dish
+Footlong B.L.T.,640,Side Dish
+"6"" BBQ Rib Sandwich",430,Side Dish
+Footlong BBQ Rib Sandwich,860,Main - Other
+"6"" Big Hot Pastrami",580,Side Dish
+Footlong Big Hot Pastrami,1160,Main - Other
+"6"" Big Philly Cheesesteak",500,Side Dish
+Footlong Big Philly Cheesesteak,1000,Main - Other
+Kids Mini Sub Black Forest Ham,180,Side Dish
+"6"" Black Forest Ham",290,Side Dish
+Footlong Black Forest Ham,580,Side Dish
+"6"" Carved Turkey",330,Side Dish
+Footlong Carved Turkey,660,Side Dish
+"6"" Carved Turkey & Bacon w/ Cheese",570,Side Dish
+Footlong Carved Turkey & Bacon w/ Cheese,1140,Main - Pork
+"6"" Chicken & Bacon Ranch Melt",570,Side Dish
+Footlong Chicken & Bacon Ranch Melt,1140,Main - Chicken
+"6"" Chicken Pizziola Melt",460,Side Dish
+Footlong Chicken Pizziola Melt,920,Main - Chicken
+"6"" Cold Cut Combo",370,Side Dish
+Footlong Cold Cut Combo,740,Main - Other
+"6"" Corned Beef Reuben",470,Side Dish
+Footlong Corned Beef Reuben,940,Main - Beef
+"6"" Italian B.M.T.",410,Side Dish
+Footlong Italian B.M.T.,820,Main - Other
+"6"" Italian Hero",550,Side Dish
+Footlong Italian Hero,1100,Main - Other
+"6"" Meatball Marinara",480,Side Dish
+Footlong Meatball Marinara,960,Main - Other
+"6"" Oven Roasted Chicken",320,Side Dish
+Footlong Oven Roasted Chicken,640,Side Dish
+Kids Mini Sub Roast Beef,200,Side Dish
+"6"" Roast Beef",320,Side Dish
+Footlong Roast Beef,640,Side Dish
+"6"" Rotisserie Style Chicken",350,Side Dish
+Footlong Rotisserie Style Chicken,700,Main - Chicken
+"6"" Spicy Italian",480,Side Dish
+Footlong Spicy Italian,960,Main - Other
+"6"" Steak and Cheese",380,Side Dish
+Footlong Steak and Cheese,760,Main - Other
+"6"" Subway Club",310,Side Dish
+Footlong Subway Club,620,Side Dish
+"6"" Subway Melt (includes cheese)",370,Side Dish
+Footlong Subway Melt (includes cheese),740,Main - Other
+"6"" Subway Seafood Sensation",420,Side Dish
+Footlong Subway Seafood Sensation,840,Main - Seafood
+"6"" Sweet Onion Chicken Teriyaki",380,Side Dish
+Footlong Sweet Onion Chicken Teriyaki,760,Main - Chicken
+"6"" Tuna",470,Side Dish
+Footlong Tuna,940,Main - Other
+"6"" Turkey & Bacon Avocado",390,Side Dish
+Footlong Turkey & Bacon Avocado,780,Main - Pork
+Kids Mini Sub Turkey Breast,180,Side Dish
+"6"" Turkey Breast",280,Side Dish
+Footlong Turkey Breast,560,Side Dish
+"6"" Turkey Breast & Ham",280,Side Dish
+Footlong Turkey Breast & Ham,560,Side Dish
+"6"" Turkey Italiano Melt (with Provolone)",490,Side Dish
+Footlong Turkey Italiano Melt (with Provolone),980,Main - Other
+Kids Mini Sub Veggie Delite,150,Side Dish
+"6"" Veggie Delite",230,Side Dish
+Footlong Veggie Delite,460,Side Dish
+"6"" Veggie Patty",390,Side Dish
+Footlong Veggie Patty,780,Main - Other
+Autumn Carved Turkey Salad,300,Side Dish
+B.L.T. Salad,150,Side Dish
+Big Hot Pastrami Melt Salad,400,Side Dish
+Big Philly Cheesesteak Salad,330,Side Dish
+Black Forest Ham Salad,110,Side Dish
+Buffalo Chicken Salad (with Ranch dressing),360,Side Dish
+Carved Turkey & Bacon w/ Cheese Salad,280,Side Dish
+Carved Turkey Salad,150,Side Dish
+Chicken & Bacon Ranch Melt Salad (includes Ranch dressing),510,Side Dish
+Cold Cut Combo Salad,180,Side Dish
+Double Chicken Salad,220,Side Dish
+Italian B.M.T.® Salad,230,Side Dish
+Italian Hero Salad,230,Side Dish
+Meatball Marinara Salad,310,Side Dish
+Oven Roasted Chicken Salad,140,Side Dish
+Roast Beef Salad,140,Side Dish
+Spicy Italian Salad,310,Side Dish
+Steak & Cheese Salad,210,Side Dish
+Subway Club Salad,140,Side Dish
+Subway Melt® Salad,200,Side Dish
+Sweet Onion Chicken Teriyaki Salad,200,Side Dish
+Tuna Salad,310,Side Dish
+Turkey Breast & Ham Salad,110,Side Dish
+Turkey Breast Salad,110,Side Dish
+Veggie Delite Salad,50,Side Dish
+Chipotle Southwest Steak & Cheese Wrap,760,Main - Other
+Rotisserie-Style Chicken Caesar Wrap,730,Main - Chicken
+"Turkey, Bacon & Guacamole Wrap",810,Main - Pork
+Cheese & Veggies Pizza,740,Main - Other
+Cheese Pizza,680,Side Dish
+Pepperoni Pizza,790,Main - Other
+Sausage Pizza,820,Main - Pork
+1/2 lb.* Cheesy Potato Burrito,540,Side Dish
+1/2 lb.* Combo Burrito,460,Side Dish
+7-Layer Burrito,510,Side Dish
+Bean Burrito,370,Side Dish
+Beefy 5-Layer Burrito,550,Side Dish
+Beefy Fritos® Burrito,440,Side Dish
+Black Bean Burrito,410,Side Dish
+Burrito Supreme® – Beef,420,Side Dish
+Burrito Supreme® - Chicken,390,Side Dish
+Burrito Supreme® - Steak,390,Side Dish
+Cantina Power Burrito - Chicken,760,Main - Chicken
+Cantina Power Burrito - Steak,780,Main - Other
+Cantina Power Burrito - Veggie,740,Main - Other
+Cheesy Bean and Rice Burrito,420,Side Dish
+Chili Cheese Burrito,380,Side Dish
+Chicken Crunchy Cheesy Core Burrito,610,Side Dish
+Steak Crunchy Cheesy Core Burrito,610,Side Dish
+Beef Crunchy Cheesy Core Burrito,630,Side Dish
+Loaded Taco Burrito,550,Side Dish
+Chicken Quesarito,620,Side Dish
+Steak Quesarito,630,Side Dish
+Beef Quesarito,650,Side Dish
+Shredded Chicken Burrito,400,Side Dish
+Smothered Burrito - Beef,710,Main - Beef
+Smothered Burrito - Shredded Chicken,650,Side Dish
+Smothered Burrito - Steak,670,Side Dish
+Chicken Spicy Cheesy Core Burrito,540,Side Dish
+Steak Spicy Cheesy Core Burrito,550,Side Dish
+Beef Spicy Cheesy Core Burrito,570,Side Dish
+Triple Melt Burrito,410,Side Dish
+XXL Grilled Stuft Burrito - Beef,880,Main - Beef
+XXL Grilled Stuft Burrito - Chicken,830,Main - Chicken
+XXL Grilled Stuft Burrito - Steak,820,Main - Other
+Chicken Soft Taco,170,Side Dish
+Cool Ranch® Doritos® Double Decker® Taco,320,Side Dish
+Cool Ranch® Doritos® Locos Taco,160,Side Dish
+Cool Ranch® Doritos® Locos Taco Supreme,200,Side Dish
+Crunchy Taco,170,Side Dish
+Crunchy Taco Supreme®,200,Side Dish
+Double Decker® Taco,320,Side Dish
+DOUBLE DECKER® Taco Supreme®,350,Side Dish
+Spicy Sweet Double Stacked Taco,340,Side Dish
+Cool Ranch Habanero Double Stacked Taco,350,Side Dish
+Nacho Crunch Double Stacked Taco,380,Side Dish
+Fiery Doritos® Double Decker® Taco,320,Side Dish
+Fiery Doritos® Locos Taco,170,Side Dish
+Fiery Doritos® Locos Taco Supreme,200,Side Dish
+Grilled Steak Soft Taco,250,Side Dish
+Nacho Cheese Doritos® Double Decker® Taco,320,Side Dish
+Nacho Cheese Doritos® Locos Tacos,170,Side Dish
+Nacho Cheese Doritos® Locos Tacos Supreme,200,Side Dish
+Soft Taco Supreme® – Beef,230,Side Dish
+Soft Taco-Beef,200,Side Dish
+Spicy Potato Soft Taco,250,Side Dish
+Chalupa Supreme® - Chicken,340,Side Dish
+Chalupa Supreme® - Steak,340,Side Dish
+Chalupa Supreme®–Beef,370,Side Dish
+Double Chalupa,600,Side Dish
+Wild Naked Chicken Chalupa,420,Side Dish
+Mild Naked Chicken Chalupa,440,Side Dish
+Spicy Double Chalupa,600,Side Dish
+Fresco Bean Burrito,350,Side Dish
+Fresco Burrito Supreme® – Chicken,340,Side Dish
+Fresco Burrito Supreme® – Steak,340,Side Dish
+Fresco Chicken Soft Taco,150,Side Dish
+Fresco Crunchy Taco,140,Side Dish
+Fresco Grilled Steak Soft Taco,150,Side Dish
+Fresco Soft Taco,170,Side Dish
+Cheesy Gordita Crunch,490,Side Dish
+Doritos® Cheesy Gordita Crunch - Cool Ranch,490,Side Dish
+Doritos® Cheesy Gordita Crunch - Fiery,490,Side Dish
+Doritos® Cheesy Gordita Crunch - Nacho Cheese,490,Side Dish
+Double Cheesy Gordita Crunch,570,Side Dish
+Gordita Supreme® – Beef,300,Side Dish
+Gordita Supreme® - Chicken,270,Side Dish
+Gordita Supreme® - Steak,270,Side Dish
+Nacho Fries Bellgrande,710,Main - Other
+Nachos BellGrande®,760,Main - Other
+Nachos Supreme,430,Side Dish
+Triple Layer Nachos,320,Side Dish
+Triple Melt Nachos,260,Side Dish
+Beefy Cheddar Crunchwrap Slider,410,Side Dish
+Beefy Mini Quesadilla,210,Side Dish
+Beefy Nacho Griller,420,Side Dish
+BLT Crunchwrap Slider,430,Side Dish
+Cantina Power Bowl - Chicken,560,Side Dish
+Cantina Power Bowl - Steak,580,Side Dish
+Cantina Power Bowl - Veggie,540,Side Dish
+Cheese Quesadilla,480,Side Dish
+Cheese Roll-Up,190,Side Dish
+Chicken Quesadilla,520,Side Dish
+Chickstar,620,Side Dish
+Chili Cheese Burrito,380,Side Dish
+Chipotle Crispy Chicken Griller,290,Side Dish
+Crispy Chicken Quesadilla,650,Side Dish
+Crunchwrap Supreme®,540,Side Dish
+Double Tostada,270,Side Dish
+Express Taco Salad w/ Chips,580,Side Dish
+Loaded Potato Griller,470,Side Dish
+Mexican Pizza,540,Side Dish
+MexiMelt®,270,Side Dish
+Steak Quesalupa,440,Side Dish
+Chicken Quesalupa,440,Side Dish
+Beef Quesalupa,460,Side Dish
+Shredded Chicken Mini Quesadilla,180,Side Dish
+Spicy Chicken Crunchwrap Slider,400,Side Dish
+Spicy Tostada,200,Side Dish
+Stacker,390,Side Dish
+Steak Quesadilla,520,Side Dish
+Original Triple Double Crunchwrap,700,Main - Other
+Spicy Triple Double Crunchwrap,780,Main - Other
+Express Taco Salad w/ Chips,580,Side Dish
+Fiesta Taco Salad-Beef,780,Main - Beef
+Fiesta Taco Salad-Chicken,720,Main - Chicken
+Fiesta Taco Salad-Steak,720,Main - Other
